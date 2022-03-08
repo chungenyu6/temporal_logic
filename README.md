@@ -3,12 +3,14 @@
   Course Assignments : Formal Method 
 </h1>
 
-> ***< NOTICE >*** 
-> 
-> *These are the assignments from **Formal Methods Course**, and the copyright of the questions 
-> belongs to the original author(professor). I only offer the code solutions, and these codes are 
-> all for education purpose, but if there are any issues with the authorization, please contact me, 
-> I will immediately remove it.*
+## Notice
+- These are the assignments from **Formal Methods Course**, and the copyright of the questions 
+belongs to the original author(professor). I only offer the code solutions, and these codes are 
+all for education purpose, but if there are any issues with the authorization, please contact me, 
+I will immediately remove it.
+
+- Every assignment folder contains : `README.md` and `SolutionApproach.md`, so you won't
+get lost in the folder full of code.
 
 
 ## Course Content
