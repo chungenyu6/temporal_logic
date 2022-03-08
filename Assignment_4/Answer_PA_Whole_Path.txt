@@ -1,0 +1,7 @@
+Random walk until arrived r1 or r2, then have optimal path to satisfy specification. 
+
+TS: 
+	1 2 3 2 2 1 2 2 3 3 3 7 3 4 3 2 3 2 1 5 6 6 6 7 3 2 2 3 3 7 3 4 3 7 8 4 8 4 8 12 8 8 12 12 16 ( 16 16 12 8 7 6 10 14 14 10 6 7 8 12 16 )w 
+
+BA: 
+	init arb arb arb arb init arb arb arb arb arb arb arb arb arb arb arb arb init arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb arb r2 ( r2 r2 arb arb arb arb arb r1 r1 arb arb arb arb arb r2 )w 

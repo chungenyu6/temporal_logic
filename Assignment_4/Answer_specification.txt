@@ -1,0 +1,23 @@
+never { /* GF((r1 && Xr1) || (r2 && Xr2 && XXr2) && !(r1&&r2)) && G(!o1 && !o2) */
+T0_init :    /* init */
+	if
+	:: (!o1 && !o2) -> goto T0_init
+	:: (!r1 && r2 && !o1 && !o2) -> goto accept_S3
+	:: (r1 && !r2 && !o1 && !o2) -> goto accept_S4
+	fi;
+accept_S3 :    /* 1 */
+	if
+	:: (r2 && !o1 && !o2) -> goto T0_S5
+	:: (!r1 && r2 && !o1 && !o2) -> goto accept_S3
+	fi;
+T0_S5 :    /* 2 */
+	if
+	:: (r2 && !o1 && !o2) -> goto T0_init
+	:: (!r1 && r2 && !o1 && !o2) -> goto accept_S3
+	fi;
+accept_S4 :    /* 3 */
+	if
+	:: (r1 && !o1 && !o2) -> goto T0_init
+	:: (r1 && !r2 && !o1 && !o2) -> goto accept_S4
+	fi;
+}

@@ -1,0 +1,10 @@
+Optimal path to satisfy specification (r1 <-> r2). 
+
+TS: 
+	( 16 16 12 8 7 6 10 14 14 10 6 7 8 12 16 )w 
+
+BA: 
+	( r2 r2 arb arb arb arb arb r1 r1 arb arb arb arb arb r2 )w 
+
+
+ Total costs of accepting path: 45
