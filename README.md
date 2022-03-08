@@ -12,6 +12,9 @@ I will immediately remove it.
 - Every assignment folder contains : `README.md` and `SolutionApproach.md`, so you won't
 get lost in the folder full of code.
 
+- Unfortunately, some of the codes might have some small issues or errors that I haven't fixed them yet, 
+so if you are interested in further discussion, please leave the comments.
+
 
 ## Course Content
 
