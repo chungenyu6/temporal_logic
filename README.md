@@ -1,11 +1,11 @@
 # Course Assignments : Formal Method 
 
-***< NOTICE >*** 
-
-*These are the assignments from **Formal Methods Course**, and the copyright of the questions 
-belongs to the original author(professor). These codes are all for education purpose, but if
-there are any issues with the authorization, please contact me, I will immediately remove it.*
-
+> ***< NOTICE >*** 
+>
+> These are the assignments from **Formal Methods Course**, and the copyright of the questions 
+> belongs to the original author(professor). These codes are all for education purpose, but if
+> there are any issues with the authorization, please contact me, I will immediately remove it.*
+>
 ---
 
 ## Course Content
