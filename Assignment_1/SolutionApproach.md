@@ -1,4 +1,5 @@
-> I'll put more details later, now it only offers breif solution.
+> I'll put more details later, now it only offers breif solution.   
+> Some of the codes might have some small issues or errors that I haven't fixed them yet.
 
 ## Solution Usage
 Put the following files in the same folder with `Solution` files to successfully use 
