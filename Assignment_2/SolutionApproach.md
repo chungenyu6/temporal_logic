@@ -9,7 +9,8 @@
 Practice creating Buchi Automaton and implementing LTL specification, 
 which related to course content : **Temporal Logic and Automata**.
 
-`BA.txt` files refer to the syntax of the Buchi Automaton, with respect to each specification.
+`BA.txt` files refer to the syntax of the Buchi Automaton, with respect to each specification. 
+(Copy from the LTL2BA website)
 
 ## Solution Results 
 ### Specification 1
