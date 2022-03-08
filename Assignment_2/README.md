@@ -7,7 +7,7 @@ construct the Buchi Automaton of an LTL. Please follow the instructions at this 
 LTL formula with the appropriate propositional symbols and boolean/temporal operators. Note that you
 don't need to change any check marks in this webpage.
 
-### Solution Requirements
+### Problem
 
 The assignment requires to implement the following steps :
 1. For each specification below, write the corresponding LTL formula $\phi$.
