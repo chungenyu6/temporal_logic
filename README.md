@@ -1,4 +1,7 @@
-# Course Assignments : Formal Method 
+
+<h1 align="center">
+  Course Assignments : Formal Method 
+</h1>
 
 > ***< NOTICE >*** 
 > 
