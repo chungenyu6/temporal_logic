@@ -27,7 +27,7 @@ Figure 1: An illustration of 5 x 4 grid that contains obstacles (red), regions o
 (gray), initial state (orange)
 
 
-Let $O = \{ o_1, o_2, o_3, o_4, \epsilon \}$ be the set of observations with the following observation map: $o_1$ is the
+Let $O =   \left \{ o_1, o_2, o_3, o_4, \epsilon \right \}$ be the set of observations with the following observation map: $o_1$ is the
 observation of the initial state, $o_2$ is the observation of the desired regions, $o_3$ is the observation of the
 obstacles, $o_4$ is the observation of the final state, and $\epsilon$ is the null observation for any other states (free
 space). Create *T.obs* that is a vector keeping the observations of each state.
