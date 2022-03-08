@@ -1,0 +1,11 @@
+never { /* FG (r1) && G!(o1) */
+T0_init :    /* init */
+	if
+	:: (!o1) -> goto T0_init
+	:: (r1 && !o1) -> goto accept_S2
+	fi;
+accept_S2 :    /* 1 */
+	if
+	:: (r1 && !o1) -> goto accept_S2
+	fi;
+}

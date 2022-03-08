@@ -1,0 +1,15 @@
+never { /* FG(r1 && X r2 && XX r3) */
+T0_init :    /* init */
+	if
+	:: (1) -> goto T0_init
+	:: (r1) -> goto accept_S2
+	fi;
+accept_S2 :    /* 1 */
+	if
+	:: (r1 && r2) -> goto accept_S3
+	fi;
+accept_S3 :    /* 2 */
+	if
+	:: (r1 && r2 && r3) -> goto accept_S3
+	fi;
+}
