@@ -36,9 +36,7 @@ Download and install [MATLAB](https://www.mathworks.com/products/matlab.html).
 
 
 > If you are a student or a researcher, your institution might offer free license for MATLAB, 
-> make sure checking your permission to get a free one.
-> 
-> Also, you are able to use "online MATLAB", in that case, you will not need to 
+> make sure checking your permission to get a free one. Also, you are able to use "online MATLAB", in that case, you will not need to 
 > install MATLAB and save a lot of disk memory.
 
 
