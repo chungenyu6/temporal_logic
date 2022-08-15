@@ -1,7 +1,7 @@
 > I'll put more details later, now it only offers breif solution.   
 > Some of the codes might have some small issues or errors that I haven't fixed them yet.
 
-## Solution Usage
+## Dependencies
 Put the following files in the same folder with `Solution` files to successfully use 
 the [Dijkstra´s Algorithm Package](https://www.mathworks.com/matlabcentral/fileexchange/14661-dijkstra-very-simple) for the code.
 - `dijkstra.m` 
