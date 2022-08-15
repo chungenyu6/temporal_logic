@@ -1,7 +1,7 @@
 > I'll put more details later, now it only offers breif solution.   
 > Some of the codes might have some small issues or errors that I haven't fixed them yet.
 
-## Solution Usage
+## Tools
 - MATLAB
 - [LTL2BA](http://www.lsv.fr/~gastin/ltl2ba/)
 
